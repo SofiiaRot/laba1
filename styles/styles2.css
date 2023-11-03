@@ -1,0 +1,15 @@
+img {
+    max-width: 100%; 
+    height: auto;
+    display: block;
+    margin: 0 auto; 
+    border: 1px solid #ddd; 
+}
+
+    img.rounded {
+        border-radius: 50%; 
+    }
+
+    img.shadow {
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
